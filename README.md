@@ -1,2 +1,2 @@
 # odin-recipes
-"My recipes to cook up for the future" 
+"My recipes to cook up for the future"
